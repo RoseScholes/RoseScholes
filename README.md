@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoseScholes
-- 👀 I’m interested in education, reading and tech pathways.
-- 🌱 I’m currently learning how to code for the first time!
+- 👀 I’m interested in data, insights and tech pathways.
+- 🌱 I’m currently completing the Code First Girls Degree on the data stream!
 - 📫 How to reach me -     <a href="https://www.linkedin.com/in/rose-scholes-146185196/">
         Click here to find me on LinkedIn
       </a>
